@@ -6,6 +6,7 @@
 
 ### Example
 Input: 5
+<br/>
 Result:
 ```code
 *
